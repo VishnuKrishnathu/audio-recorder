@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/audio-reocrder/static/css/main.7b4df637.css",
+    "main.js": "/audio-reocrder/static/js/main.69e61a7e.js",
+    "static/js/787.36b5a4e0.chunk.js": "/audio-reocrder/static/js/787.36b5a4e0.chunk.js",
+    "index.html": "/audio-reocrder/index.html",
+    "main.7b4df637.css.map": "/audio-reocrder/static/css/main.7b4df637.css.map",
+    "main.69e61a7e.js.map": "/audio-reocrder/static/js/main.69e61a7e.js.map",
+    "787.36b5a4e0.chunk.js.map": "/audio-reocrder/static/js/787.36b5a4e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b4df637.css",
+    "static/js/main.69e61a7e.js"
+  ]
+}
