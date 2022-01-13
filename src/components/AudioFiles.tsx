@@ -16,7 +16,7 @@ export default function AudioFiles() {
         <div className='ml-5'>
             <h4 className='underline font-bold text-xl text-red-700'>Audio Recordings </h4>
             {
-                audioRecordings.length == 0 && <h4 style={{
+                audioRecordings.length === 0 && <h4 style={{
                     color: "rgb(185 28 28)",
                     fontWeight: "600",
                     marginTop: "1.2rem"
