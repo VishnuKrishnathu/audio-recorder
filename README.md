@@ -44,4 +44,4 @@ A simple web application built using React JS
 <br/>
 
 ### **Continous Integration**
-We use [GitHub Actions](https://github.com/features/actions) for continuous integration. Check out our [build workflows](https://github.com/hoppscotch/hoppscotch/actions).
+We use [GitHub Actions](https://github.com/features/actions) for continuous integration. Check out our [build workflows](https://github.com/VishnuKrishnathu/audio-recorder/actions).
